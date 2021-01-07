@@ -1,8 +1,9 @@
 Blog Kanal
 -------
 
-* 'kanalinfo <https://www.kanalinfo.web.id>'_
-* <a href="https://www.kanal.web.id" target="_blank>www.kanal.web.id</a> 
-* <a href="https://www.kanalpengetahuan.com" target="_blank>www.kanalpengetahuan.com</a>
+* `www.kanalinfo.web.id <https://www.kanalinfo.web.id/>`_
+* `www.kanal.web.id <https://www.kanalinfo.web.id/>`_
+* `www.kanalpengetahuan.com <https://www.kanalinfo.web.id/>`_
 
+* `Selengkapnya <https://www.lenterakecil.net/blog-kanal-pengetahuan>`_
 
